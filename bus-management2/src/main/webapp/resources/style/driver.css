@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+body {
+  margin-bottom: 5px;
+}
+h2 ,h3{
+  margin-top: 3px;
+  padding-left: 5px;
+  color: rgb(255, 75, 75);
+  font-family: "Cinzel", serif;
+}
+.formbody {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+.icon {
+  color: black !important;
+}
+.add {
+  background-color: rgb(255, 75, 75);
+  border: none;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+.pos{
+	align:right;
+}

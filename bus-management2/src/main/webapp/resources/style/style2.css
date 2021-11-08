@@ -1,0 +1,71 @@
+@charset "ISO-8859-1";
+.container-fluid {
+  overflow: hidden;
+  padding: 0% !important;
+  margin-top: 0% !important;
+}
+body{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.row {
+  margin-top: 0% !important;
+}
+.side {
+  background-color: rgb(255, 75, 75) !important;
+  width: 330px;
+  height: 92vh !important;
+  float: left;
+  font-size: 20px;
+  padding-right: 0% !important;
+  overflow: hidden;
+  margin-bottom: 0% !important;
+}
+
+.k {
+  text-decoration: none;
+  color: white;
+}
+.hr {
+  color: white;
+}
+.sidebar:hover .k {
+  background-color: white;
+  color: red;
+}
+.sidebar:hover {
+  background-color: white;
+  height: 3rem;
+  padding-top: 6px;
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+}
+.k:hover {
+  text-decoration: none;
+}
+.sidebar {
+  margin-bottom: 0% !important;
+  height: 3rem;
+  width:100%;
+}
+.iconify {
+  size: 100px;
+}
+.button {
+  margin-left: 55em;
+}
+
+.card-body {
+  align-self: center !important;
+}
+.btn-primary {
+  background-color: rgb(255, 75, 75) !important;
+  border: none !important;
+}
+.row {
+  margin-top: 1em !important;
+}
+.bh {
+  margin-top: 0% !important;
+}
